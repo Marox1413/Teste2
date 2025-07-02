@@ -14,7 +14,7 @@
 
 
 
-<h2 style = "color: white; font-family: Courier; text-shadow: 1px 1px 2px black;"><strong>para o amor da minha vida^^</b> </h2>
+<h2 style = "color: white; font-family: Courier; text-shadow: 1px 1px 2px black;"><b>para o amor da minha vida^^</b></h2>
 
 
 <p style = "color: white; font-family: Courier; text-shadow: 1px 1px 2px black;">Informe a data do inicio do nosso namoro^^
@@ -61,7 +61,7 @@
 </script>
 
 
-<p style="color: white; font-family: Courier; text-shadow: -1px -1px 0 black, 1px -1px 0 black,-1px  1px 0 black, 1px  1px 0 black, 4px 4px 4px black; font-size:1.3em; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10'); background-size:cover; padding: 10px;"> Oiiiiiiiiiiii <strong>amor da minha vida^^</b> felizzzz dias dos <span style="color: red;"> namorados</span>, primeira vez que eu to passando isso com alguem, me desculpa se eu esquecer de algo, nao to acostumado KAKAKKAAKAKAK eu me dediquei em programar em html para conseguir fazer um site sobre a gente sobre como tanto vc é perfeita^^ VAMOS VER TODAS AS FOTOS OU VIDEO QUE EU AMO MUITO NOSSA OU SUA (para melhor experiencia veja os videos na ordem que eu falo no texto. exemplo: o primeiro video...esse segundo video é muito fofo... )</p>
+<p style="color: white; font-family: Courier; text-shadow: -1px -1px 0 black, 1px -1px 0 black,-1px  1px 0 black, 1px  1px 0 black, 4px 4px 4px black; font-size:1.1em; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10'); background-size:cover; padding: 10px;"> Oiiiiiiiiiiii <strong>amor da minha vida^^</b> felizzzz dias dos <span style="color: red;"> namorados</span>, primeira vez que eu to passando isso com alguem, me desculpa se eu esquecer de algo, nao to acostumado KAKAKKAAKAKAK eu me dediquei em programar em html para conseguir fazer um site sobre a gente sobre como tanto vc é perfeita^^ VAMOS VER TODAS AS FOTOS OU VIDEO QUE EU AMO MUITO NOSSA OU SUA (para melhor experiencia veja os videos na ordem que eu falo no texto. exemplo: o primeiro video...esse segundo video é muito fofo... )</p>
 <br>
 <br>
 <hr style="border: 1px solid black; margin-bottom: 1px;">
@@ -69,18 +69,18 @@
 <h5 style= "background-color: #ff85c2; display: inline-block; border-radius: 10px;padding: 5px; color: black ;font-family:Courier New; text-shadow: 1px 1px 2px black"><b>02/02/2025 &#128153;</b></h5>
 
 
-<img src ="3_Sem_Titulo.png" style="border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+<img src="3_Sem_Titulo.png" style="border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
  width="430" height="200";">
  
  
-<p style="color: white; font-family: Courier; text-shadow: -1px -1px 0 black, 1px -1px 0 black,-1px  1px 0 black, 1px  1px 0 black, 4px 4px 4px black; font-size:1em; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10'); background-size:cover; padding: 10px;"> vamos começar com esse desenho <strong>MARVAILHOSO</b> que vc fez nosso, cara extremamente muito bonitinho, essas coisas que vc faz para a gente <strong>é muito importante para mim</b>, por isso que como to aprendendo a programar vou tentar reciprocar isso do meu jeito nerd KKAKAKAKAKA e vc com seu talento incrivel em desenhar e designer^^&#128153; (a i.a esta me ajudando muito para conseguir aprender esssas coisas, pq coisas especificas ver em videos demora muito, ou seja i.a > curso de programação KAKAKAKAKKA)</p>
+<p style="color: white; font-family: Courier; text-shadow: -1px -1px 0 black, 1px -1px 0 black,-1px  1px 0 black, 1px  1px 0 black, 4px 4px 4px black; font-size:1.1em; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10'); background-size:cover; padding: 10px;"> vamos começar com esse desenho <strong>MARVAILHOSO</b> que vc fez nosso, cara extremamente muito bonitinho, essas coisas que vc faz para a gente <strong>é muito importante para mim</b>, por isso que como to aprendendo a programar vou tentar reciprocar isso do meu jeito nerd KKAKAKAKAKA e vc com seu talento incrivel em desenhar e designer^^&#128153; (a i.a esta me ajudando muito para conseguir aprender esssas coisas, pq coisas especificas ver em videos demora muito, ou seja i.a > curso de programação KAKAKAKAKKA)</p>
 
 <h5 style= "background-color: #ff85c2; display: inline-block; border-radius: 10px;padding: 5px; color: black ;font-family:Courier New; text-shadow: 1px 1px 2px black"><b>06/06/2024 & 07/06/2024 &#128153;</b></h5>
 
 <img src="Sim.jpg" style="border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1); width: 48.5%; display: inline-block;">
 <img src="Nao.jpg" style= "border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1); width: 48.5%; display: inline-block;">
 
-<p style="color: white; font-family: Courier; text-shadow: -1px -1px 0 black, 1px -1px 0 black,-1px  1px 0 black, 1px  1px 0 black, 4px 4px 4px black; font-size:1.5em; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10'); background-size:cover; padding: 10px;">as primeiras fotos distraidas que tirei KAKAAKAKAKA essa primeira é umas das favoritas que eu tenho, essas fotos me dão tantas lembranças, isso é muito legal, desde o começo eu achava vc muito linda, principalmente por conta do seu estilo, as correntes que vc tinha na mão, vc ficar lendo um livro quietinha no canto mas nunca longe assim, ficava olhando vc e queria me aproximar de vc, serio toda vez que eu lembro dessas coisas eu fico muito feliz, tao legal tudo isso, nossos momentos, tudo super legal^^ eu amo nossas lembranças, eu amo VC^^<span style="color: black;"><b>(ctz que tava reclamando de alguma coisa na segunda foto)</span></b></p>
+<p style="color: white; font-family: Courier; text-shadow: -1px -1px 0 black, 1px -1px 0 black,-1px  1px 0 black, 1px  1px 0 black, 4px 4px 4px black; font-size:1.1em; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10'); background-size:cover; padding: 10px;">as primeiras fotos distraidas que tirei KAKAAKAKAKA essa primeira é umas das favoritas que eu tenho, essas fotos me dão tantas lembranças, isso é muito legal, desde o começo eu achava vc muito linda, principalmente por conta do seu estilo, as correntes que vc tinha na mão, vc ficar lendo um livro quietinha no canto mas nunca longe assim, ficava olhando vc e queria me aproximar de vc, serio toda vez que eu lembro dessas coisas eu fico muito feliz, tao legal tudo isso, nossos momentos, tudo super legal^^ eu amo nossas lembranças, eu amo VC^^<span style="color: black;"><b>(ctz que tava reclamando de alguma coisa na segunda foto)</span></b></p>
 
 <h5 style= "background-color: #ff85c2; display: inline-block; border-radius: 10px;padding: 5px; color: black ;font-family:Courier New; text-shadow: 1px 1px 2px black"><b>07/06/2024 &#128153; </b></h5>
 
