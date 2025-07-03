@@ -61,13 +61,13 @@
 
 <h3 style= "background-color: #ff85c2; display: inline-block; border-radius: 10px;padding: 5px; color: black ;font-family: Menlo, monospace; text-shadow: 1px 1px 2px black"><b>02/02/2025 &#128153;</b></h3>
 
-<b  r>
+<br>
 <img src ="300.jpg" style="border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);width: 48.5%;">
  
    
 <p style="color: white; font-family: Courier; text-shadow: -1px -1px 0 black, 1px -1px 0 black,-1px  1px 0 black, 1px  1px 0 black, 4px <<4p></4p>x></4px> 4px black; font-size:1.3em; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10'); background-size:cover; padding: 10px;">vamos começar com esse desenho <b>MARVAILHOSO</b> que vc fez nosso, cara extremamente muito bonitinho, essas coisas que vc faz para a gente <b>é muito importante para mim</b>, por isso que como to aprendendo a programar vou tentar reciprocar isso do meu jeito nerd KKAKAKAKAKA e vc com seu talento incrivel em desenhar e designer^^&#128153; (a i.a esta me ajudando muito para conseguir aprender esssas coisas, pq coisas especificas ver em videos demora muito, ou seja i.a > curso de programação KAKAKAKAKKA)</p>
 
-<h3 style= "background-color: #ff85c2; display: inline-block; border-radius: 10px;padding: 5px; color: black ;font-family:Courier New; text-shadow: 1px 1px 2px black"><b>06/06/2024 & 07/06/2024 &#128153;</b></h3>
+<h3 style= "background-color: #ff85c2; display: inline-block; border-radius: 10px;padding: 5px; color: black ;font-family:Menlo, monospace; text-shadow: 1px 1px 2px black"><b>06/06/2024 & 07/06/2024 &#128153;</b></h3>
 
 <br>
 <img src="Sim.jpg" style="border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1); width: 48.5%; display: inline-block;">
