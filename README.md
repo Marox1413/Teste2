@@ -4,7 +4,69 @@
 <meta http-equiv="Cache-Control" content="max-age=31536000">
 </head>
 
-  <!DOCTYPE html><html lang="pt-BR"><head><meta charset="UTF-8"><title>Corações</title><style>body{margin:0}#c{position:fixed;top:0;left:0;pointer-events:none;z-index:9999}</style></head><body><canvas id="c"></canvas><script>const c=document.getElementById("c"),x=c.getContext("2d");c.width=innerWidth;c.height=innerHeight;const h=[];class H{constructor(){this.r()}r(){this.x=Math.random()*c.width;this.y=c.height+50;this.s=10+Math.random()*15;this.v=2+Math.random()*3;this.o=0.5+Math.random()*0.5;}u(){this.y-=this.v;if(this.y<-100)this.r()}d(){x.save();x.translate(this.x,this.y);x.scale(this.s/100,this.s/100);x.rotate(Math.PI/4);x.globalAlpha=this.o;x.fillStyle="red";x.beginPath();x.moveTo(0,0);x.bezierCurveTo(0,-30,-50,-30,-50,0);x.bezierCurveTo(-50,30,0,50,0,70);x.bezierCurveTo(0,50,50,30,50,0);x.bezierCurveTo(50,-30,0,-30,0,0);x.fill();x.restore()}};for(let i=0;i<100;i++)h.push(new H());(function a(){x.clearRect(0,0,c.width,c.height);for(const e of h)e.u(),e.d();requestAnimationFrame(a)})();addEventListener("resize",()=>{c.width=innerWidth;c.height=innerHeight});</script></body></html>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const c = document.createElement("canvas");
+  c.id = "c";
+  c.style.position = "fixed";
+  c.style.top = 0;
+  c.style.left = 0;
+  c.style.pointerEvents = "none";
+  c.style.zIndex = 9999;
+  document.body.appendChild(c);
+
+  const x = c.getContext("2d");
+  c.width = innerWidth;
+  c.height = innerHeight;
+
+  const h = [];
+  class H {
+    constructor() {
+      this.r();
+    }
+    r() {
+      this.x = Math.random() * c.width;
+      this.y = c.height + 50;
+      this.s = 10 + Math.random() * 15;
+      this.v = 2 + Math.random() * 3;
+      this.o = 0.5 + Math.random() * 0.5;
+    }
+    u() {
+      this.y -= this.v;
+      if (this.y < -100) this.r();
+    }
+    d() {
+      x.save();
+      x.translate(this.x, this.y);
+      x.scale(this.s / 100, this.s / 100);
+      x.rotate(Math.PI / 4);
+      x.globalAlpha = this.o;
+      x.fillStyle = "red";
+      x.beginPath();
+      x.moveTo(0, 0);
+      x.bezierCurveTo(0, -30, -50, -30, -50, 0);
+      x.bezierCurveTo(-50, 30, 0, 50, 0, 70);
+      x.bezierCurveTo(0, 50, 50, 30, 50, 0);
+      x.bezierCurveTo(50, -30, 0, -30, 0, 0);
+      x.fill();
+      x.restore();
+    }
+  }
+
+  for (let i = 0; i < 100; i++) h.push(new H());
+
+  (function a() {
+    x.clearRect(0, 0, c.width, c.height);
+    for (const e of h) e.u(), e.d();
+    requestAnimationFrame(a);
+  })();
+
+  window.addEventListener("resize", () => {
+    c.width = innerWidth;
+    c.height = innerHeight;
+  });
+});
+</script>
   
 <style>
   body {
