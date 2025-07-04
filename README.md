@@ -436,7 +436,7 @@ document.getElementById('start').addEventListener('click', () => {
   <br>
 
 <video src="57.mp4#t=0.1" style="width: 48.5%; height:600px; object-fit: cover; object-position: center;border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);" controls></video>
-<img src="27.jpg" style="border: 1px solid #000; clip-path: circle(0px 0px 10px 0px); box-shadow: 0px 0px 10px rgba(0, 0, 0, 1); width: 48.5%; height: 600px  display: inline-block;">
+<img src="27.jpg" style="border: 1px solid #000; clip-path: inset(0px 0px 10px 0px); box-shadow: 0px 0px 10px rgba(0, 0, 0, 1); width: 48.5%; height: 600px;  display: inline-block;">
 
 <p style="color: white; font-family: Menlo, monospace; text-shadow: -1px -1px 0 black, 1px -1px 0 black,-1px  1px 0 black, 1px  1px 0 black, 4px 4px 4px black; font-size:1.3em; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10'); background-size:cover; padding: 10px;">1 QUE ISSO GATA TU ME FAZ CORAR, fiz isso pra vc e postei vc ficou toda emocionado no dia, eu tava só fazendo enquanto vc ficava se admirando um monte pq vc tava muito linda memso🩵 cabelo de roxo combinou com a música tbm 2 AQUI VEMOS CLARAMENTE QUE VC FICOU UM POUCO EMOCIONADA KAKAAKAKAKAKA só um pouco mesmo coisa pouca eu diria, ela chorando e borrando a maquiagem toda KAKKAAK ainda bem que já tinha se admirado um monte, slc eu tiro print bem discreto né, MINHA MÃO NA TELA TODA KAKAKAKAKA, mas vc ficou toda choradinha na chamada achei muito bonitinho, vc falou uma vez pra mim que queria muito que eu fizesse isso, fiz e vc amou, e fico feliz que vc gostou tanto assim^^ pior que eu postei e deixei vc ver por si, nem avisei, eu acho, não me lembro direito, só sei de uma coisa. EU TE AMO MUITOOOOOOOOO🩵🩵 MINHA PRINCESA</p>
 
@@ -454,7 +454,7 @@ document.getElementById('start').addEventListener('click', () => {
 @keyframes float{0%{transform:rotate(45deg)translateY(0);opacity:1}100%{transform:rotate(45deg)translateY(-150vh);opacity:0}}
 </style>
 
-<div id="container"><h1>Vai casar comigo?</h1><button class="btn btn-yes" id="btn-yes">Sim</button><button class="btn btn-no" id="btn-no">Não</button></div>
+<div id="container"><h1 style= "background-color: #ff85c2; display: inline-block; border-radius: 10px;padding: 5px; color: black ;font-family: Menlo, monospace; text-shadow: 1px 1px 2px black"><b>Vai casar comigo?</b></h1><button class="btn btn-yes" id="btn-yes">Sim</button><button class="btn btn-no" id="btn-no">Não</button></div>
 <div id="video-container"><video src="200.mp4" id="video" width="640" height="480" controls></video></div>
 
 <script>
