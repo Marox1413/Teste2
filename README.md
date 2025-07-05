@@ -10,9 +10,9 @@
   body {
    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10');a}</style>
 
-<h2 style = "color: white; font-family: Courier; text-shadow: 1px 1px 2px black;"><b>para o amor da minha vida^^</b> </h2>
+<h2 style = "color: white; font-size:1.3em; font-family: Menlo, monospace; text-shadow: 1px 1px 2px black;"><b>para o amor da minha vida^^</b> </h2>
 
-<p style = "color: white; font-family: Courier; text-shadow: 1px 1px 2px black;">Informe a data do inicio do nosso namoro^^
+<p style = "color: white; font-size:1.3em; font-family: Menlo, monospace; text-shadow: 1px 1px 2px black;">Informe a data do inicio do nosso namoro^^
 
 <style>
   input[type="date"] {
