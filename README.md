@@ -84,7 +84,7 @@
 
 <br>
 
-<video src="video1.mp4#t=0.1" style="width: 97%; height:600px; object-fit: cover; object-position: center;border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);" controls></video>
+<video src="video1.mp4#t=0.1" style="width: 48.5%; height:600px; object-fit: cover; object-position: center;border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);" controls></video>
 
 <p style="color: white; font-family: Menlo, monospace; text-shadow: -1px -1px 0 black, 1px -1px 0 black,-1px  1px 0 black, 1px  1px 0 black, 4px 4px 4px black; font-size:1.3em; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10'); background-size:cover; padding: 10px;"> esse  video, esse video que fez com que a gente conversasse por horas, se pensarmos no efeito borboleta talvez a gente nao iria se aproximar tao rapido se nao fosse por esse video, primeira vez que eu vi eu fiquei encantado de verdade KAKAKAKAAKA que foda, vc canta muito bem, nao esperava isso, pq nao tive essa impressao, e me lembro que vc falou que muita gente diz isso e é ate meio ruim pra vc, mas sinceramente se eu nao espero algo bom e vem algo MUITO BOM a minha dopamina vai pra o caralho KAKAKAKAKAA se tu ja espera algo, nao vai dar tanta adrenalina, entao é algo muito bom, sua voz 10/10 de primeira vista vai ser 100/10 por conta desse jogo de impressoes^^ (a gente tava conversando tanto esse dia que eu nem consegui terminar de ver o video no dia KAKAKAKKAKAAK)</p>
 
