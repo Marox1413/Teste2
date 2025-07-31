@@ -507,3 +507,29 @@ NAOOOO O MACHADO DE ASSIS DNV NÃO, SEMPRE ELE TERMINANDO OS VIDEOS OAKAAKAKAKAK
 </div>
 <div id="resposta" style="margin-top: 10px;"></div>
 
+<h3 style= "background-color: #ff85c2; display: inline-block; border-radius: 10px;padding: 5px; color: black ;font-family: Menlo, monospace; text-shadow: 1px 1px 2px black"><b>05/11/2024&#128153;</b></h3>
+  
+  <br>
+
+<video src="61.mp4#t=0.1" style="width: 48.5%; height:600px; object-fit: cover; object-position: center;border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);" controls></video>
+<video src="videos/62.mp4#t=0.1" style="width: 48.5%; height:600px; object-fit: cover; object-position: center;border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);" controls></video>
+
+<p style="color: white; font-family: Menlo, monospace; text-shadow: -1px -1px 0 black, 1px -1px 0 black,-1px  1px 0 black, 1px  1px 0 black, 4px 4px 4px black; font-size:1.3em; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10'); background-size:cover; padding: 10px;"> 1 KAAKAKAKKAAKAKAKA meu Deus essw video é muito bom, eu ficando coringa pq vc é muito bonitinha slc amor, uma princesa dessa que vc é viu, olha vc sorrindo nesse começo de video que isso mn a mina ja nasceu em 4k ate no sorriso e vc toda sorrindo com eu coringa do seu lado, que sorriso lindo que vc tem mn, namoral perfeição, E EU SOU HOMEM (apos fazer a voz mais feninina ja escutada) 2 CARALHO OLHA A HABILIDADE DO PAI GRAVANDO TIK TOK MN que isso pai, eu dei um chutao no ar altao KAKAAKAAK homem no dia mais fraco no banho imaginando lutando contra 5 de uma vez (brutalmente molestado) e aquela reboladinha no final de cria ne pai KAKAKAAKAK namoral que video bom "que porra é essa" dar a mesma sensação de "dia dos namorado é o caralho o bagulho é..." </p>
+
+<h3 style= "background-color: #ff85c2; display: inline-block; border-radius: 10px;padding: 5px; color: black ;font-family: Menlo, monospace; text-shadow: 1px 1px 2px black"><b>09/11/2024&#128153;</b></h3>
+  
+  <br>
+<img src="32.jpg" style="border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1); width: 48.5%; height: 600px;  display: inline-block;">
+<img src="33.jpg" style="border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1); width: 48.5%; height: 600px;  display: inline-block;">
+
+<p style="color: white; font-family: Menlo, monospace; text-shadow: -1px -1px 0 black, 1px -1px 0 black,-1px  1px 0 black, 1px  1px 0 black, 4px 4px 4px black; font-size:1.3em; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10'); background-size:cover; padding: 10px;"> 1 NÓS NO BOKU BOKU acho que era esse o nome KAKAKAKKA jogo bonitinho cara dava pra fazer um coração igual ta ai na imagem muito fofo esse jogo,engraçado que vc tava toda vc ai, fez o personagem infual vc e eu... KAKAAKKAAKAKAKAKA eu sou a verdade (referencias nerd sobre fullmetal alchemist) e agr vc ta falando "NERDDDDDDDDDD" sempre faz isso, ridicula, 2 VC FAZENDO UM DINOSSAURO PRA MIM NO BOKU BOMU cara muuti legal ficou extremamente bom tipo eu te admiro muito que vc sabe fazer coisas bonitinhas assim, ainda mais pra mim, pixel art linda que vc fez, muito obrigado amor, vc é incrivel&#128153;  </p>
+
+<h3 style= "background-color: #ff85c2; display: inline-block; border-radius: 10px;padding: 5px; color: black ;font-family: Menlo, monospace; text-shadow: 1px 1px 2px black"><b>11/11/2024&#128153;</b></h3>
+  
+  <br>
+<img src="34.jpeg" style="border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1); width: 48.5%; height: 600px;  display: inline-block;">
+<img src="35.jpeg" style="border: 1px solid #000; box-shadow: 0px 0px 10px rgba(0, 0, 0, 1); width: 48.5%; height: 600px;  display: inline-block;">
+
+
+<p style="color: white; font-family: Menlo, monospace; text-shadow: -1px -1px 0 black, 1px -1px 0 black,-1px  1px 0 black, 1px  1px 0 black, 4px 4px 4px black; font-size:1.3em; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnnQfhLGq4zx8VxV4Y5uOyUjDEOJeB1gslU6IZ9sidKppn9FZ8OS6-YBo&s=10'); background-size:cover; padding: 10px;"> PRIMWIEA VEZ QUE EU FUI ATE SUA CASA KAKAKAKAKAKAKA primeira impressows minhas: roça pacas slc, me lembro que wu vi isso ai e falei pra vc tirar uma foto ai KAKAKKAKA acho que eu te acompanhei ate em casa esse dia, nao tenho certeza mas dai desc9bri onde era sua casa pra cagar na sua porya e vc nem ver h3h3h3h3, foi muito legal te acompanhar e eu sei que vc amou muito que eu te acompanhei tbm^^ slc dps que te conheci eu to me localizando melhor ate, na entrada do ensino medio nao sabia nem pegar onibus ainda KAKAKAKAAKAK mas era so ver o googpe maps e gg, agr eu sei ate que o 759 nao vai com sus cara pq vai pra paciencia KAKAKAAKAKAKAKA, ela anjo e leo (pizza)</p>
+
